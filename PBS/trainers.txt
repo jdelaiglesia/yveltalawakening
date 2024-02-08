@@ -1,0 +1,79 @@
+﻿# Consulte la documentación en la wiki para aprender a editar este archivo.
+#-------------------------------
+[DODMORK_GRUNT,Abraham]
+LoseText = "Que la oscuridad me abrace."
+Pokemon = DEINO,2
+    Moves = TACKLE,FOCUSENERGY,TAILWHIP
+#-------------------------------
+[DODMORK_GRUNT,Isaac]
+LoseText = "Esta es la peor secta loca en la que he estado..."
+Pokemon = SCRAGGY,3
+Pokemon = TRUBBISH,2
+#-------------------------------
+[DODMORK_GRUNT,Jacob]
+LoseText = "Con la muerte se acaban los días."
+Pokemon = STUNKY,4
+#-------------------------------
+[DODMORK_GRUNT,Nehemías]
+LoseText = "Sus alas me cobijan."
+Pokemon = PAWNIARD,5
+#-------------------------------
+[DODMORK_GRUNT,David]
+LoseText = "La muerte me espera."
+Pokemon = INKAY,4
+#-------------------------------
+[DODMORK_GRUNT,Samuel]
+LoseText = "Sus oscuras alas me cobijan."
+Pokemon = NOIBAT,5
+Pokemon = SALANDIT,3
+#-------------------------------
+[DODMORK_GRUNT,Josué]
+LoseText = "Con la muerte se acaban los días."
+Pokemon = SCRAGGY,3
+#-------------------------------
+[DODMORK_GRUNT,Ezequiel]
+LoseText = "La oscuridad me acoge en sus brazos."
+Pokemon = SANDILE,3
+Moves = SCRATCH,LEER,SANDSTORM
+#-------------------------------
+[DODMORK_GRUNT,Moisés]
+LoseText = "Las tinieblas me rodean."
+Pokemon = POOCHYENA,3
+Moves = BITE,SWAGGER,QUICKATTACK
+#-------------------------------
+[DODMORK_GRUNT,Noé]
+LoseText = "La oscuridad me arrastrará hacia el abismo."
+Pokemon = CARVANHA,5
+Moves = CRUNCH,SCREECH,ICEFANG
+#-------------------------------
+[DODMORK_GRUNT,Set]
+LoseText = "Las sombras son mi destino."
+Pokemon = MURKROW,4
+Moves = PECK,NIGHTSHADE,FEINTATTACK
+#-------------------------------
+[DODMORK_GRUNT,Sansón]
+LoseText = "La oscuridad me absolverá."
+Pokemon = SANDILE,3
+Moves = SANDATTACK,BITE,TORMENT
+Pokemon = GULPIN,3
+#-------------------------------
+[DODMORK_ADMIN,Jonás]
+LoseText = "Hm. Para ser un consorte de la luz, eres bastante bueno."
+Pokemon = DEINO,10
+    Moves = TACKLE,FOCUSENERGY,TAILWHIP
+Pokemon = DRIFLOON,10
+#-------------------------------
+[MONJE_TEMPLO_AZUL,Harald]
+LoseText = "..."
+Pokemon = SPEAROW,7
+Pokemon = RATTATA,9
+#-------------------------------
+[MONJE_TEMPLO_AZUL,Adrian]
+LoseText = "..."
+Pokemon = HOOTHOOT,10
+    Moves = TACKLE,GROWL,HYPNOSIS
+Pokemon = SHINX,7
+    Moves = TACKLE,LEER
+Pokemon = GEODUDE,12
+    Moves = TACKLE,DEFENSECURL
+#-------------------------------

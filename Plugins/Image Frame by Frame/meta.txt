@@ -1,0 +1,3 @@
+Name         = Image Frame by Frame
+Version      = 1.0
+Credits      = Dafting

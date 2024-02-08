@@ -1,0 +1,18 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[014] # Ruta 1
+Land,14
+    20,HOOTHOOT,2,4
+    20,TEDDIURSA,3,5
+    10,DEERLING,3,5
+    10,SNORUNT,2,5
+#-------------------------------
+[017] # Bosque Blanco
+Land,14
+    20,VENIPEDE,2,4
+    10,ODDISH,2,4
+    10,TEDDIURSA,2,4
+    5,PHANTUMP,2,5
+    5,SPEWPA,2,4
+    2,SCATTERBUG,3,5
+    

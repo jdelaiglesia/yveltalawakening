@@ -1,0 +1,3 @@
+Name         = Dafting's WindowSkin Show
+Version      = 1.0
+Credits      = Dafting

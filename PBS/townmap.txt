@@ -1,0 +1,17 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[0]
+Name = 
+Filename = mapRegion0.png
+Point = 15,16,Pueblo Fisker,,,,,
+Point = 14,14,Ruta 1,,,,,
+Point = 14,15,Ruta 1,,,,,
+Point = 14,13,Pueblo Gisli,,,,,
+Point = 16,16,Ruta 23,,,,,
+Point = 14,16,Bosque Blanco,,,,,
+Point = 14,12,Ruta 2,,,,,
+Point = 13,10,,,,,,
+Point = 29,0,,,,,,
+Point = 10,10,,,,,,
+Point = 15,11,Ruta 2,,,,,
+Point = 14,11,Ruta 2,,,,,
