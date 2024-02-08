@@ -11,4 +11,6 @@ animmaker*
 errorlog.txt
 extendtext*
 /Pokémons a insertar
-/Savedata/*
+/Savedata/*.rxdata
+/REQUIRED_BY_INSTALLER_UPDATER
+INSTALL_OR_UPDATE.bat
